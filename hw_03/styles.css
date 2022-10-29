@@ -122,6 +122,14 @@ body {
 
 .win h2 {
   margin-top: 52px;
+  margin-bottom: -7px;
+}
+
+.line {
+  width: 592px;
+  height: 7px;
+  background: #1400ff;
+  margin-bottom: 32px;
 }
 
 .button {
